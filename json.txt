@@ -1,0 +1,18 @@
+{
+   "$schema": "http://json-schema.org/draft-04/schema#"
+   "firstName": "Joe",
+   "age": 10,
+   "married": false,
+   "taxId": 3984579384,
+   "friends": ["Mary", 10, false, true],
+   "diploma": true,
+   "email": "joe111@gmail.com",
+   "phone": "0983474872",
+   "enemies": ["Smith", "Lind"],
+   "address": {
+           "country": "UA",
+           "city": "Ternopil",
+           "zip": "47300",
+           "postal": 34
+           }
+ }

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <student>
+     <firstName>Joe</firstName>
+     <age>10</age>
+     <married>false</married>
+     <taxId>3984579384</taxId>
+     <friends>Mary</friends>
+     <friends>10</friends>
+     <friends>false</friends>
+     <friends>true</friends>
+     <diploma>true</diploma>
+     <email>joe111@gmail.com</email>
+     <phone>0983474872</phone>
+     <enemies>Smith</enemies>
+     <enemies>Lind</enemies>
+     <address>
+         <country>UA</country>
+         <city>Ternopil</city>
+         <zip>47300</zip>
+         <postal>34</postal>
+     </address>
+ </student>
